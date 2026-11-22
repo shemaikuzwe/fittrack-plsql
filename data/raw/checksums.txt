@@ -1,0 +1,14 @@
+# SHA-256 of every file in data/raw/, computed 2026-11-22 immediately after extraction.
+# These files are the dataset exactly as downloaded. Do not edit them.
+#
+# Source : https://www.kaggle.com/datasets/diyashrivastava12/indian-gym-engagement-and-retention-dataset
+# Download: https://www.kaggle.com/api/v1/datasets/download/diyashrivastava12/indian-gym-engagement-and-retention-dataset
+# Archive : fittrack_src.zip, 5,921,182 bytes
+#
+# Verify with: sha256sum -c checksums.txt
+
+21c14c0da663b60a8a038228b2f708a5ebff4f4f6e5c69ad995bb93ffb86f8b5  app_engagement_events.csv
+ca12dca502da519655600f1b26548ef79c7c52eec6220ef8e42b1857f472ca0d  gym_checkin_workout_logs.csv
+a92bb34d8b3bf11dea674689ecc235cf4964e7d9edab90c0a57ddadbd259fe76  members_master.csv
+2bc2d60c67f9ddf561e49f4faf20eb497aaa23cd9ba507a8a6577e98bf211f36  streak_history_episodes.csv
+dbc025e0166280f4fbd98649dfcee1e2ac010757eef852b552c64a2a0ca74233  subscription_renewal_records.csv
